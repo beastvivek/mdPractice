@@ -23,3 +23,22 @@ vivek|22
 sampriti|22
 subhash|22
 sneha|19
+
+>this is a quote
+>> Rule No.1 - Never lose money
+>>> Rule No.2 - Never forget Rule No.1
+
+*this is italic text*
+
+__This is bold text__
+
+__*this is bold and italic*__
+
+```js
+const add = (x, y) => x + y;
+
+exports.add = add;
+```
+
+
+
